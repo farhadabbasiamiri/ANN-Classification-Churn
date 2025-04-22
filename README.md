@@ -78,6 +78,8 @@ streamlit run app.py
 
 You can input customer details, and the app will predict whether the customer is likely to churn or stay.
 
+[Check out the live Streamlit app here](https://ann-classification-churn-rkf6viuxmxx2nempsdhffn.streamlit.app/)
+
 ---
 
 ## 🔍 Additional Features
